@@ -1,0 +1,24 @@
+.main{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchinput{
+    padding: 10px 16px;
+    margin: 8px 0;
+}
+
+.main h4{
+    padding: 15px;
+}
+
+.main h6{
+    padding-bottom: 10px;
+}
+
+.main h5{
+    margin-top: 80px;
+}

@@ -1,0 +1,30 @@
+.mapcontainer{
+    height: 100%;
+    width: 100%;
+}
+
+.markername{
+    position: absolute;
+    background-color: white;
+    width: 70px;
+    top: -80px;
+    z-index: 1;
+}
+
+.markername:hover{
+    background-color: aqua;
+    z-index: 2;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.imgmap{
+    width: 100%;
+    height: 50px;
+}
+
+.markertext{
+    padding: 2px;
+}

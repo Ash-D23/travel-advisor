@@ -1,0 +1,35 @@
+.dash-container{
+ display: flex;
+ height: 100vh;
+}
+
+.dash-map{
+    width: 70%;
+    height: 100%;
+}
+.dash-list{
+    width: 30%;
+    height: 100%;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.check{
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#type{
+    width: 70px;
+}
+
+#rating{
+    width: 70px;
+}
+
+.dash-list h5{
+    text-align: center;
+    padding-top: 5px;
+}

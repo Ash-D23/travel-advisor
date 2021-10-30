@@ -1,0 +1,35 @@
+.checkout-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.checkout-title{
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.checkout-items{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.checkout-item{
+    width: 400px;
+    margin: 10px;
+    
+}
+
+.noitems{
+   color: grey; 
+   padding: 15px;
+   text-align: center;
+}
+
+.check-btn{
+    padding: 20px;
+
+}
