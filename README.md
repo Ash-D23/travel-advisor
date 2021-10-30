@@ -2,7 +2,7 @@
 
 Web Application to plan your travel to search for Hotels, Restaurants, Attractions near you and plan your travel itinerary. Google Maps APi integrated to get current location and locate places on Map along with Rapid API to search places
 
-### Demo - https://travel-advisor-planner.netlify.app/
+### Demo - https://Ash-D23.github.io/travel-advisor/
 
 ### Tech Stack - React JS
 
